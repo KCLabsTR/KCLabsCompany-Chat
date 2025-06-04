@@ -1,0 +1,7 @@
+.chat-container{max-width:400px;margin:0 auto;border:1px solid #ccc;}
+.chat-header{background:#eee;padding:5px;text-align:center;}
+.chat-body{height:300px;overflow-y:auto;padding:5px;}
+.chat-footer{display:flex;gap:5px;padding:5px;}
+.message-sent{text-align:right;}
+.online-indicator{color:green;}
+.offline-indicator{color:gray;}
